@@ -1,5 +1,6 @@
 a{text-decoration:none}
-h4{text-align:center;margin:30px 0;color:#fff}
+h4{text-align:center;margin:30px 0;color:#fff;user-select: none;}
+h4:hover{text-shadow: 4px 4px 8px #fff;}
 
 .main-timeline{
   position:relative
