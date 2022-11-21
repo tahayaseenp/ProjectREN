@@ -1,6 +1,33 @@
 a{text-decoration:none}
 h4{text-align:center;margin:30px 0;color:#fff;user-select: none;}
-h4:hover{text-shadow: 4px 4px 8px #fff;}
+/* h4:hover{text-shadow: 4px 4px 8px #fff;} */
+
+h4{
+  transform: scale(0.833333, 0.83333);
+  transition: all 0.4s;
+}
+
+h4:hover {
+  transform: scale(1.2, 1.2);
+  transition: all 0.4s;
+  text-shadow: 0 1px 2px #fff;
+}
+
+h4::after{
+  opacity: 1;
+  transition: all 0.4s;
+  text-shadow: 0 5px 15px #fff;
+}
+
+h4:hover {
+  -webkit-transform: scale(1.25, 1.25);
+  transform: scale(1.25, 1.25);
+}
+
+h4:hover::after {
+    opacity: 1;
+}
+
 
 .main-timeline{
   position:relative
