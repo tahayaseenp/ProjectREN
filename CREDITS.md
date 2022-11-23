@@ -1,2 +1,4 @@
-[Timeline template](https://codepen.io/petrkejda/pen/GRKvZOm) <br>
-[Wikipedia](https://en.wikipedia.org/wiki/)
+<ol>
+  <li>[Timeline template](https://codepen.io/petrkejda/pen/GRKvZOm)</li> <br>
+  <li>[Wikipedia](https://en.wikipedia.org/wiki/) </li>
+</ol>
