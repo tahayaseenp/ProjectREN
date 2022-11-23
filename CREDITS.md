@@ -1,1 +1,1 @@
-[Tmeline template](ttps://codepen.io/petrkejda/pen/GRKvZOm)
+[Timeline template](https://codepen.io/petrkejda/pen/GRKvZOm)
