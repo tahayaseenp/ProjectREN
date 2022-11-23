@@ -7,7 +7,7 @@ function bg2() {
    }  
 
 function bg3() {
-  document.body.style.backgroundImage = "url('https://eapsweb.mit.edu/sites/default/files/styles/700x347_no_overlay/public/fig16.jpg__1240x510_q85_subject_location-375%2C250_subsampling-2.jpg?itok=qbw9k4rk')";
+  document.body.style.backgroundImage = "url('https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/MSNBC/Components/Photo/_new/121001_ShockWavePhoto-0110p_files.jpg')";
   }  
 
 function bg4() {
