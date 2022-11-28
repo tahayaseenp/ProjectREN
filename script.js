@@ -1,5 +1,9 @@
 const body = document.querySelector('body');
 
+function bgreset(){
+  body.classList.remove(...body.classList);
+}
+
 function bg1() {  
   body.classList.remove(...body.classList);
   body.classList.add("bg1");
