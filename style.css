@@ -18,76 +18,88 @@ body{
   background-image: url('https://images.unsplash.com/photo-1554050857-c84a8abdb5e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80');
   background-size: cover;
   background-repeat: no-repeat, repeat;
-  transition: background-image 500ms;
+  transition: background-image 300ms;
 }
 
 .bg1{
   background-image: url('https://hubblesite.org/files/live/sites/hubble/files/home/resource-gallery/articles/_images/hs-article-bigBang-2400x1200.jpg');
   background-size: cover;
+  background-attachment: fixed;
   background-repeat: no-repeat, repeat;
 }
 
 .bg2{
   background-image: url('https://i.natgeofe.com/k/a2a738a9-e019-4911-98e6-17f31c45ac88/milky-way-2_3x2.jpg');
   background-size: cover;
+  background-attachment: fixed;
   background-repeat: no-repeat, repeat;
 }
 
 .bg3{
-  background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/MSNBC/Components/Photo/_new/121001_ShockWavePhoto-0110p_files.jpg');
+  background-image: url('https://cdn.sci.news/images/enlarge3/image_4407e-Early-Solar-System.jpg');
   background-size: cover;
+  background-attachment: fixed;
   background-repeat: no-repeat, repeat;
 }
 
 .bg4{
-  background-image: url('https://cdn.sci.news/images/enlarge3/image_4407e-Early-Solar-System.jpg');
+  background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/MSNBC/Components/Photo/_new/121001_ShockWavePhoto-0110p_files.jpg');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 
 .bg5{
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 
 .bg6{
   background-image: url('https://www.americanoceans.org/wp-content/uploads/2021/03/fullsizeoutput_278.jpeg');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 
 .bg7{
   background-image: url('https://imageio.forbes.com/specials-images/imageserve/461654112/0x0.jpg?format=jpg&width=1200');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 
 .bg8{
   background-image: url('https://www.thoughtco.com/thmb/dj4nerFEPPv_pE3D-TRLYo_b-a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3-D_DNA-56a09ae45f9b58eba4b20266.jpg');
   background-size: cover;
+  background-attachment: fixed;
   background-repeat: no-repeat, repeat;
 }
 
 .bg9{
-  background-image: url('https://cdn.mos.cms.futurecdn.net/fi8nrWxvEb5sowf5jkQ8RY-1200-80.jpg');
+  background-image: url('https://i.ibb.co/n34W0NN/Untitled-2.png');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 .bg10{
   background-image: url('https://media.news9live.com/h-upload/2021/11/13/62010-earth.jpg');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 .bg11{
   background-image: url('https://i.natgeofe.com/k/c9d2cffc-2152-404a-b540-1cc48bbcd3f2/spinosaurid-dino-news_4x3.jpg');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 .bg12{
   background-image: url('https://cdn.mos.cms.futurecdn.net/AU7QNUVSmZozKUWjWzyux.jpg');
   background-size: cover;
   background-repeat: no-repeat, repeat;
+  background-attachment: fixed;
 }
 
 h4::after{
